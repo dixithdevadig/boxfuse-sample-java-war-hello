@@ -4,7 +4,7 @@
 </head>
 <body style="text-align: center">
 <h1>Congratulations! This is dixith</h1>
-<img src="IMG_3377.JPG">
+<img src="osi model.png">
 
 <h2>You have successfully launched your Instance!</h2>
 
